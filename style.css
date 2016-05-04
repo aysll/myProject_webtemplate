@@ -1,0 +1,59 @@
+.icons, .footer{
+	background: black;
+	color: white;
+}
+.menu1{
+	width: 100px;
+	height: 80px;
+	padding-left: 40px;
+    padding-right: 105px;
+    background: grey;
+}
+
+.menu1:hover{
+	background: blue;
+}
+.star{
+	color:green;
+}
+.Ibuild{
+	color:black;
+}
+.menu{
+	height: 80px;
+	background: grey;
+}
+.our{
+	background: blue;
+	text-align: center;
+}
+.our h2{
+	color:white;
+	text-align: center;
+
+}
+.text{text-align: center;}
+.white{
+	color:white; 
+}
+.projectsimg{
+	width: 200px;
+	height: 200px;
+}
+.projectstext{
+	width: 200px;
+	background: black;
+	height: 48px;
+	margin-left: 35px;
+}
+.client{
+	text-shadow: 8px 3px 6px;
+
+}
+.padding{
+	padding-top: 30px;
+	padding-bottom: 40px;
+}
+.clients{
+	background: blue;
+}
